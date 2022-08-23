@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @nycxlasss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-nycxlasss/nycxlasss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profi
-You can click the Preview link to take a look at your changes.
---->Opa , Eu sou o Nycolas
-    Estou interessado em aprender coisas novas!!!
-    Para chegar até mim  nycolas.menezes@escola.pr.gov.br
-    
+Opa , Eu sou o Nycolas
+Estou interessado em aprender coisas novas!!!
+Para chegar até mim  nycolas.menezes@escola.pr.gov.br
